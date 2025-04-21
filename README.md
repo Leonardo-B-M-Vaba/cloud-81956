@@ -20,7 +20,7 @@ Desenvolvido com **ASP.Net Core 8** seguindo os princípios de **Clean Architect
 - Serilog (Logs estruturados)
 
 
-## Arquitetuta
+## Arquitetura
 
 Este projecto segue os princípios da **Clean Architecture** 
 
